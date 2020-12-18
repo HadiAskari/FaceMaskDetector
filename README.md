@@ -1,2 +1,2 @@
 # FaceMaskDetector
-A facial mask detector made in via using PyTorch, openCV and MTCNN library, 
+A facial mask detector made in via using PyTorch, openCV and MTCNN algorithm for face detection, 
